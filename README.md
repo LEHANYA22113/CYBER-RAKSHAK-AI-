@@ -39,5 +39,4 @@ users with accessible AI-driven security tools.
 - Enterprise-level API
 - Real-time monitoring
 
----
-Built for CodeSangram Hackathon 2026
+
